@@ -1,0 +1,10 @@
+
+s	java:S135,"YReduce the total number of break and continue statements in this loop to use at most one.(àõıÿÿÿÿ
+v
+java:S1488A"[Immediately return this expression instead of assigning it to the temporary variable "run".(î” êÿÿÿÿÿ
+W
+java:S1854P"ARemove this useless assignment to local variable "arrayOfString".(­ÅĞñ
+@	java:S106M"+Replace this use of System.out by a logger.(­ºÎ 
+E	java:S106T"+Replace this use of System.out by a logger.(ÃèóÏøÿÿÿÿ
+@	java:S106W"+Replace this use of System.out by a logger.(›‹Îé
+@	java:S106Y"+Replace this use of System.out by a logger.(ÀÏ•¼

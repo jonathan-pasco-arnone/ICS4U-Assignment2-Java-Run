@@ -22,7 +22,7 @@ final class Run {
     *
     */
     private Run() {
-        throw new IllegalStateException("Cannot be instantiated");
+        throw new IllegalStateException("Cannot be instantiated ");
     }
 
     /**
